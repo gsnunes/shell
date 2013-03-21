@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir "test"
+echo "testing..."
